@@ -61,8 +61,4 @@ To run this project on your system, follow these steps:
 Utilized the TMDB API to fetch and display movie data, enabling users to explore a wide range of movies. Note: The TMDB API requires the use of a VPN for access in some regions due to geo-restrictions.
 
 
-Utilized the TMDB API to fetch and display movie data, enabling users to explore a wide range of movies. Note: The TMDB API requires the use of a VPN for access in some regions due to geo-restrictions.
 
-
-
-This addition informs users of the potential need for a VPN when accessing the TMDB API, depending on their location**
