@@ -1,6 +1,3 @@
-Certainly! Here's a comprehensive README file content for your GitHub repository:
-
----
 
 # Disney+ Clone
 
@@ -58,13 +55,14 @@ To run this project on your system, follow these steps:
    Open your browser and go to `http://localhost:3000` to see the Disney+ clone running locally on your machine.
 
 
-**Certainly! Here's the revised section on TMDB API integration with the mention about VPN:
 
----
 
 **TMDB API Integration:**
 Utilized the TMDB API to fetch and display movie data, enabling users to explore a wide range of movies. Note: The TMDB API requires the use of a VPN for access in some regions due to geo-restrictions.
 
---- 
+
+Utilized the TMDB API to fetch and display movie data, enabling users to explore a wide range of movies. Note: The TMDB API requires the use of a VPN for access in some regions due to geo-restrictions.
+
+
 
 This addition informs users of the potential need for a VPN when accessing the TMDB API, depending on their location**
